@@ -7,4 +7,11 @@
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
     <string name="numero">No.</string>
+    <string name="crear">Crear Personas</string>
+    <string name="listar">Listar Personas</string>
+    <array name="opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+    </array>
+    <string name="mensaje_exitoso">Persona Guardada</string>
 </resources>
