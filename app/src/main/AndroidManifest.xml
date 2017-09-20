@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Agregar_Personas" />
+        <activity android:name=".Listar_Personas"></activity>
     </application>
 
 </manifest>
